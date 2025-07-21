@@ -59,7 +59,7 @@ To try out these projects:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jcobsntos/micprocessor-arduino-projects.git
+   git clone https://github.com/jcobsntos/microprocessor-arduino-projects.git
 
 ## Authors
 
